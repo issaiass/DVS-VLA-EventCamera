@@ -17,11 +17,11 @@ eventcamera = "eventcamera:main"
 
 [dependency-groups]
 dev = [
-    "pytest>=8.0.0",
-    "pytest-cov>=5.0.0",
     "black>=24.0.0",
     "mypy>=1.10.0",
     "pylint>=3.2.0",
+    "pytest>=8.0.0",
+    "pytest-cov>=5.0.0",
 ]
 
 [build-system]
