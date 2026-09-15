@@ -1,0 +1,20 @@
+[project]
+name = "eventcamera"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "issaiass", email = "issaiass@hotmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.5.1",
+    "opencv-python>=5.0.0.93",
+]
+
+[project.scripts]
+eventcamera = "eventcamera:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
