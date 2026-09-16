@@ -37,7 +37,7 @@ Simulates event camera output using:
 ### Live Demo Output
 
 <p align="center">
-<img src="docs/eventcamera.gif" width="75%" alt="Event Camera Simulator Demo"/>
+<img src="https://raw.githubusercontent.com/issaiass/DVS-VLA-EventCamera/main/docs/eventcamera.gif" width="75%" alt="Event Camera Simulator Demo"/>
 </p>
 
 The simulator generates three synchronized real-time visualizations:
