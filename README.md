@@ -1,4 +1,4 @@
-# Event Camera Simulator for Robotics
+# Event Camera Simulator for Robotics and VLA
 
 **VLA-Optimized DVS (Dynamic Vision Sensor) Simulator for Humanoid Robot Vision Systems**
 
